@@ -43,11 +43,6 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
 </p>
-<p>
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/>
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeokju1313&layout=compact&theme=dark)
 [![hyeokju1313's github stats](https://github-readme-stats.vercel.app/api?username=hyeokju1313)](https://github.com/anuraghazra/github-readme-stats)
