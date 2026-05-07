@@ -1,5 +1,4 @@
-# hyeokju1313 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeokju1313)](https://hits.seeyoufarm.com)
-## Data Scientist & AI Engineer
+# hyeokju1313
 <p>
     <a href="https://www.linkedin.com/in/hyeokju-lee-09911a217/" target="_blank"><img src="https://img.shields.io/badge/HyeokjuLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="hyeokju1313@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyeokju1313@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
